@@ -1,16 +1,15 @@
-# minefield
 
-A new Flutter project.
+# MineField
 
-## Getting Started
+This is a hands on learning session I took in order to learn how to apply testing in a Flutter project.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## What I learnt
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+How to test with Flutter using the flutter_test library
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Autores
+
+- [@darcanj0](https://www.github.com/darcanj0)
+
