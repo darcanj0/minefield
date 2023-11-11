@@ -15,7 +15,9 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: MineFieldPage(),
+      home: const MineFieldPage(
+        
+      ),
       debugShowCheckedModeBanner: false,
     );
   }

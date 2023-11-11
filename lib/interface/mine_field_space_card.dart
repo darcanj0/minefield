@@ -10,8 +10,8 @@ class MineFieldSpaceCard extends StatelessWidget {
   });
 
   final MineFieldSpace space;
-  final Function(MineFieldSpace) onOpen;
-  final Function(MineFieldSpace) onMark;
+  final Function onOpen;
+  final Function onMark;
 
   Widget get image {
     if (space.isOpen && space.isMined && space.isExploded) {
